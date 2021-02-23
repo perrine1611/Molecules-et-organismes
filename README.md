@@ -15,4 +15,4 @@ Pour ce projet, nous allons te demander de partir sur un kit UI préfait. Celui-
 - [ ] Une section qui présente un élément (à gauche du texte, à droite une image)
 - [ ] Un organisme de ton choix
 
-### Thème Bootswatch utilisé : Flatly [link to Google!] (https://bootswatch.com/flatly/)
+### Thème Bootswatch utilisé : [Flatly](https://bootswatch.com/flatly/)
